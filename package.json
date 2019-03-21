@@ -1,0 +1,29 @@
+{
+  "name": "@ilios/eslint-config-ember-addon",
+  "version": "1.3.0",
+  "description": "ESLint Config for Ilios Ember Addons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilios/eslint-config-ember-addon.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslintconfig"
+  ],
+  "author": "Team Ilios <support@iliosproject.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilios/eslint-config-ember-addon/issues"
+  },
+  "homepage": "https://github.com/ilios/eslint-config-ember-addon/tree/master/eslint-config-ember-addon#readme",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@ilios/eslint-config-ember": "^2.0.0",
+    "eslint-plugin-node": "^8.0.1"
+  }
+}
