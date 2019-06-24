@@ -27,6 +27,6 @@
     "eslint-plugin-node": "^9.0.1"
   },
   "devDependencies": {
-    "eslint": "^5.15.3"
+    "eslint": "^6.0.0"
   }
 }
